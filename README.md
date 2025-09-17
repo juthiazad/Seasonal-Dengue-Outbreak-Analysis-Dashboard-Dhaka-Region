@@ -1,4 +1,4 @@
-# Seasonal-Dengue-Outbreak-Analysis-Dashboard-Dhaka-Region
+# Seasonal-Dengue Analysis-Dashboard-Dhaka-Region
 
 Overview
 
